@@ -8,16 +8,6 @@
 </div>
 
 
-<br/>
-<div align="center">
-  <img src="https://img.shields.io/github/contributors/Arhosseini77/Brand_Attention?color=dark-green" alt="Contributors"> 
-  <img src="https://img.shields.io/github/forks/Arhosseini77/Brand_Attention?style=social" alt="Forks"> 
-  <img src="https://img.shields.io/github/stars/Arhosseini77/Brand_Attention?style=social" alt="Stargazers"> 
-  <img src="https://img.shields.io/github/license/Arhosseini77/Brand_Attention" alt="License"> 
-  </a>
-</div>
-<br/>
-
 
 <div align="center">
     <img src="documentation/Brand_Attention.png" alt="Brand-Attention Module" style="width: 80%;">
